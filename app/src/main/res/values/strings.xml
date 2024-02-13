@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MDC JC M2</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_black_friday">Black Friday!!</string>
+    <string name="input_url">image URL</string>
+    <string name="card_requiered">Requiered</string>
+    <string name="card_password">password</string>
+    <string name="check_box_title">Enable password</string>
+    <string name="card_hide_fab">Hide Fab</string>
+    <string name="card_btn_buy">Buy</string>
+    <string name="card_btn_skip">Skip</string>
+    <string name="card_title">Black Friday</string>
+    <string name="large_text">Material is the metaphor me gustaria corregir the unifying theory of a ration Friday</string>
+
+</resources>
